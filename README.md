@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Привет, 
+Я Нина, QA Engineer 
+🔎 Чем я занимаюсь:
+Ручное тестирование веб-приложений
+Функциональное, регрессионное и интеграционное тестирование
+Тестирование API
+Написание и поддержка тест-кейсов и чек-листов
+Создание и анализ баг-репортов
+🛠️ Инструменты и технологии:
+Тестирование API и интеграций
+Postman  SOAP  Kafka  REST  Swagger  Discord 
+Тестирование Web и Мобильных приложений
+Figma  HTTP  HTML  CSS   Charles-proxy 
+Логи и мониторинги
+Kibana  Sentry  Grafana  Jaeger  Bash 
+Тестовая документация
+Yandex Tracker  ClickUp  Test It  Notion 
+Работа с базами данных
+PostgreSQL  Mongo DB  Metabase  DBeaver 
+Web Testing & DevTools
+🌱 Сейчас изучаю:
+Автоматизацию тестирования
+Python
+Инструменты для автоматизации тестирования
+📚 Мне интересно:
+Тестирование программного обеспечения
+Автоматизация тестирования
+Тестирование API
+Постоянное профессиональное развитие
+✨ Я постоянно учусь и ищу возможности развиваться как QA-инженер.
 
-<!--
-**ninamalceva872303-alt/ninamalceva872303-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
